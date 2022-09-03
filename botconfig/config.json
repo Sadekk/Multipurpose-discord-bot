@@ -1,12 +1,12 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "OTk3MTEyNDI1NzU1MTkzMzY0.G2D0Bo.kMdtsvTzRuTyvDlqoxzXniKaurVgcEdGfWayh0",
     "prefix": "//",
     "ownerIDS": [
         "442355791412854784"
     ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "fnbr": "fdsq",
+    "fortnitetracker": "hgf",
+    "memer_api": "dsdqsfdsf",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
         "text2": "By: discord.gg/dcdev",
@@ -16,15 +16,15 @@
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
-                "port": 2333,
+                "host": "lava.link",
+                "port": 80,
                 "password": "youshallnotpass"
             }
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+        "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
